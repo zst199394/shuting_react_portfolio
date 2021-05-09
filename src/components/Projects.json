@@ -26,5 +26,19 @@
         "git":"https://github.com/zst199394/Homonym_group_project1",
         "description":"A responsive application project",
         "screenshot":"/assets/home-page.png"
+    },
+    {
+        "app":"Note taker",
+        "live":"https://damp-refuge-68771.herokuapp.com/notes",
+        "git":"https://github.com/zst199394/good_note_taker",
+        "description":"An Express.js back end app will save and retrieve note data from a JSON file",
+        "screenshot":"/assets/note.png"
+    },
+    {
+        "app":"Responsive Passwordcreate Application",
+        "live":"https://zst199394.github.io/Responsive_Passwordcreate_Application/ ",
+        "git":"https://github.com/zst199394/Responsive_Passwordcreate_Application",
+        "description":"A JavaScript Password Generator",
+        "screenshot":"/assets/pass.png"
     }
 ]
