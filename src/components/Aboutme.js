@@ -21,7 +21,7 @@ function Aboutme() {
             technologies that useful for websites developement.
           </p>
           <a href="https://github.com/zst199394" className="card-link">
-            <img id="social_icons" src="assets/github.png" alt="github" />
+            <img id="social_icons" src="../public/assets/github.png" alt="github" />
             My Github link
           </a>
           <a
