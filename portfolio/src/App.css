@@ -1,0 +1,23 @@
+#image{
+    width:20%;
+    height:20%;
+    border-radius: 5%;
+    float: left;
+    margin-right: 3%;
+}
+img {
+    width: 32px;
+    height: 32px;
+    border-radius: 10%;
+}
+
+.card{
+    margin-top: 8%;
+    margin-bottom: 8%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.footer {
+    text-align: center;
+}

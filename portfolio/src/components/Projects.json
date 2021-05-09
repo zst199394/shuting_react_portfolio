@@ -1,0 +1,30 @@
+[
+    {
+        "app":"Shoe-ing App",
+        "live":"https://vast-beyond-73038.herokuapp.com/",
+        "git":"https://github.com/zst199394/shoeing_ecommerce_app",
+        "description":"An E-commerce website with front and back end technology",
+        "screenshot":"/assets/shoeing.png"
+    },
+    {
+        "app":"PTeam Profile  Gnerator",
+        "live":"https://github.com/zst199394/Team_Profile_Generator",
+        "git":"https://github.com/zst199394/Team_Profile_Generator",
+        "description":"A Node.js command-line application",
+        "screenshot":"/assets/team.png"
+    },
+    {
+        "app":"online_offline_bank",
+        "live":"https://zst199394.github.io/Responsive_Passwordcreate_Application/",
+        "git":"https://github.com/zst199394/online_offline_bank",
+        "description":"A JS assignment",
+        "screenshot":"/assets/18screen.png"
+    },
+    {
+        "app":"Homonym App",
+        "live":"https://wchenausky.github.io/project-1/",
+        "git":"https://github.com/zst199394/Homonym_group_project1",
+        "description":"A responsive application project",
+        "screenshot":"/assets/home-page.png"
+    }
+]
