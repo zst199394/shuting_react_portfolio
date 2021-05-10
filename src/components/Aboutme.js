@@ -6,9 +6,8 @@ function Aboutme() {
       <section className="card">
         <div className="card-body">
           <h1 className="card-title text-primary">About Me</h1>
-
           <p className="card-text">
-            <img id="image" src="/assets/IMG_0816.JPG" alt="shuting" />My name is Shuting Zhao.I lived in Florida 5 years already since
+            <img id="image" src="assets/IMG_0816.JPG" alt="shuting" />My name is Shuting Zhao.I lived in Florida 5 years already since
             2015.I've been living in Hawaii for a while before for study. I got
             my bachelor degree in Tourism Management but after working in
             Disney, Universal ,5-star hotels, I realized that is not the perfect
