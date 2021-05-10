@@ -4,7 +4,7 @@
         "live":"https://vast-beyond-73038.herokuapp.com/",
         "git":"https://github.com/zst199394/shoeing_ecommerce_app",
         "description":"An E-commerce website with front and back end technology",
-        "screenshot":"../public/assets/shoeing.png"
+        "screenshot":"/assets/shoeing.png"
     },
     {
         "app":"PTeam Profile  Gnerator",

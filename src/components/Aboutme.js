@@ -7,7 +7,7 @@ function Aboutme() {
         <div className="card-body">
           <h1 className="card-title text-primary">About Me</h1>
           <p className="card-text">
-            <img id="image" src="assets/IMG_0816.JPG" alt="shuting" />My name is Shuting Zhao.I lived in Florida 5 years already since
+            <img id="image" src={process.env.PUBLIC_URL+"/assets/IMG_0816.JPG"} alt="shuting" />My name is Shuting Zhao.I lived in Florida 5 years already since
             2015.I've been living in Hawaii for a while before for study. I got
             my bachelor degree in Tourism Management but after working in
             Disney, Universal ,5-star hotels, I realized that is not the perfect
@@ -20,14 +20,14 @@ function Aboutme() {
             technologies that useful for websites developement.
           </p>
           <a href="https://github.com/zst199394" className="card-link">
-            <img id="social_icons" src="../public/assets/github.png" alt="github" />
+            <img id="social_icons" src={process.env.PUBLIC_URL+"/assets/github.png"} alt="github" />
             My Github link
           </a>
           <a
             href="https://www.linkedin.com/in/shu-ting-zhao-1497ba199/"
             className="card-link"
           >
-            <img id="social_icons" src="assets/linkedin.png" alt="github" />
+            <img id="social_icons" src={process.env.PUBLIC_URL+"/assets/linkedin.png"} alt="github" />
             My Linkedin link
           </a>
         </div>
