@@ -5,6 +5,13 @@
     float: left;
     margin-right: 3%;
 }
+
+#projectIMG{
+    width: 80%;
+    border-radius: 0;
+    
+}
+
 img {
     width: 32px;
     height: 32px;
@@ -12,10 +19,14 @@ img {
 }
 
 .card{
-    margin-top: 8%;
-    margin-bottom: 8%;
+    margin-top: 15%;
+    margin-bottom: 0%;
     margin-left: 10%;
     margin-right: 10%;
+}
+
+#portfolio {
+    padding:0%;
 }
 
 .footer {
