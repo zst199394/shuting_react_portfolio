@@ -4,7 +4,7 @@ function Footer(){
   return(
     <footer className="footer ml-auto">
     <h6>Made with ❤️️ by SZ</h6>
-    <p><small>&copy; 12/20/2020</small></p>
+    <p><small>&copy; 05/01/20201</small></p>
  </footer>
   )
 }
