@@ -21,14 +21,14 @@ function Aboutme() {
           </p>
           <a href="https://github.com/zst199394" className="card-link">
             <img id="social_icons" src={process.env.PUBLIC_URL+"/assets/github.png"} alt="github" />
-            My Github link
+            My Github
           </a>
           <a
             href="https://www.linkedin.com/in/shu-ting-zhao-1497ba199/"
             className="card-link"
           >
             <img id="social_icons" src={process.env.PUBLIC_URL+"/assets/linkedin.png"} alt="github" />
-            My Linkedin link
+            My Linkedin
           </a>
         </div>
       </section>
