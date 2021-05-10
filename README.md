@@ -8,8 +8,8 @@
   ## Description
 
   Create a updated portfolio using React and other materials to build toward being employer competitive since I worked with React and have multiple projects to share.
-  Git-hub page link : ?
-  ![Home Page](./public/assets/portfolio.png)
+  ![github page](https://zst199394.github.io/shuting_react_portfolio/)
+  ![My portfolio page](./public/assets/portfolio.png)
 
   ## Table of contents
   - [Description](#Description)
