@@ -8,6 +8,7 @@
   ## Description
 
   Create a updated portfolio using React and other materials to build toward being employer competitive since I worked with React and have multiple projects to share.
+  
   [github page](https://zst199394.github.io/shuting_react_portfolio/)
   ![My portfolio page](./public/assets/portfolio.png)
 
