@@ -3,14 +3,14 @@
 
   [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) ![GitHub license](https://img.shields.io/badge/Made%20by-%40zst199394-orange)    
   ![node.js badge](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)    
-  App: ?
 
   ## Description
 
   Create a updated portfolio using React and other materials to build toward being employer competitive since I worked with React and have multiple projects to share.
-  
+
   [github page](https://zst199394.github.io/shuting_react_portfolio/)
-  ![My portfolio page](./public/assets/portfolio.png)
+  ![My portfolio page](/public/assets/portfolio.png)
+  ![Responsive](./public/assets/portfolio2.png)
 
   ## Table of contents
   - [Description](#Description)
