@@ -7,27 +7,40 @@ function Aboutme() {
         <div className="card-body">
           <h1 className="card-title text-primary">About Me</h1>
           <p className="card-text">
-            <img id="image" src={process.env.PUBLIC_URL+"/assets/IMG_0816.JPG"} alt="shuting" />My name is Shuting Zhao.I lived in Florida 5 years already since
-            2015.I've been living in Hawaii for a while before for study. I got
-            my bachelor degree in Tourism Management but after working in
-            Disney, Universal ,5-star hotels, I realized that is not the perfect
-            field for me.So right now I am focusing on web and software
-            development. I am recently studying in Central Florida Coding
-            Bootcamp.I have already get used to the 3 basic web languages: HTML,
-            CSS, Javascript. Now I am working hard on getting more and more
-            skillful on all these languages and keep leaning deeper and deeper
-            everyday.At the same time, I also study a lot of new languages and
-            technologies that useful for websites developement.
+            <img
+              id="image"
+              src={process.env.PUBLIC_URL + "/assets/IMG_0816.JPG"}
+              alt="shuting"
+            />
+            My name is Shuting Zhao.I lived in Florida 5 years already since
+            2015.I've been living in Hawaii for my bachelor degree in Tourism
+            Management but after working in this industry for few years now I
+            realized that is not the perfect field for me.After deciding to be a
+            web developer or software engineer, I am recently studying in
+            Central Florida University Coding Bootcamp.Learn in-demand skills
+            through a market-driven curriculum: HTML5, CSS3, JavaScript, jQuery,
+            Express.js, React.js, Node.js, progressive web apps, agile
+            methodology, computer science, database theory, MongoDB, MySQL, Git,
+            and more.I am working hard on getting my coding skills stronger to
+            reach my goal to be a developer.
           </p>
           <a href="https://github.com/zst199394" className="card-link">
-            <img id="social_icons" src={process.env.PUBLIC_URL+"/assets/github.png"} alt="github" />
+            <img
+              id="social_icons"
+              src={process.env.PUBLIC_URL + "/assets/github.png"}
+              alt="github"
+            />
             My Github
           </a>
           <a
             href="https://www.linkedin.com/in/shu-ting-zhao-1497ba199/"
             className="card-link"
           >
-            <img id="social_icons" src={process.env.PUBLIC_URL+"/assets/linkedin.png"} alt="github" />
+            <img
+              id="social_icons"
+              src={process.env.PUBLIC_URL + "/assets/linkedin.png"}
+              alt="github"
+            />
             My Linkedin
           </a>
         </div>
